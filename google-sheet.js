@@ -30,7 +30,7 @@ $("#request-form").submit(function(event){
 
     // Fire off the request to /form.php
     request = $.ajax({
-        url: "https://script.googleusercontent.com/macros/echo?user_content_key=kDa8B8apW2b55s2UBZCut_s0ZZz5uqhvPxyK8NCcZlDRqkFfOQxAAh0jaaBhuBEjJuFiztZ5lABzR07oVSRbdhNEsFhUIvTIm5_BxDlH2jW0nuo2oDemN9CCS2h10ox_1xSncGQajx_ryfhECjZEnGu3lXGPzd2RTnHqc2q9OXYx1FO_Jk5N0BhwDlfV48awJXU09cj4qr2e8ff3vORDXOiZc0bVyYEe&lib=MBQrLFUJw_pqHNTvck0yMTj8HCSztJr45",
+        url: "https://script.google.com/macros/s/AKfycbzSbzR5UPKo7-sGArYt4LIG5vuoufQu5DeGA_DCRlGUWaFrqwM/exec",
         type: "post",
         data: serializedData
     });
