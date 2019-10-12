@@ -1,4 +1,4 @@
-var script_url = "https://script.google.com/macros/s/AKfycbzxl6GQtp_M9-J4EfuFSg_PVMknX5vUyD8G0D54BrvNUwCUojo/exec";
+var script_url = "https://script.google.com/macros/s/AKfycbzuCGf06sC9DaeEL7ZcppySnwpLBE1xcrL9Aj1EVsXiSTiUBZY/exec";
 function insert_value(){
 	var id1 =$("#product").val();
 	var name =$("#name").val();
